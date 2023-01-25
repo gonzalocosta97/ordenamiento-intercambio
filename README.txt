@@ -1,1 +1,1 @@
-Ejemplo de ordenamiento de array de Strings a través del método de intercambio.
+Se propone desarrollar un ejemplo de ordenamiento de array de Strings a través del método de intercambio.
