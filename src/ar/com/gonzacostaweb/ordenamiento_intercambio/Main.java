@@ -28,7 +28,7 @@ public class Main {
 			
 		}
 		
-		// Se muestra el array ordenado
+	   // Se muestra el array ordenado
 			
 	   for(String n: nombres) {
 				
